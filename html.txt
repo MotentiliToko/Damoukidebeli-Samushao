@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>Ordinary week</h1>
+  <p>Time to reveal the schedule</p>
+  <a>Tips to do in order to feel better:</a>
+  <ul>
+    <li>Workout</li>
+    <li>Think deeply</li>
+    <li>Show less emotion</li>
+    <li>Nighttime rides</li>
+    <li>Never lie to yourself</li>
+  </ul>
+  <table>
+    <thead>
+      <tr>
+        <th>Weekday</th>
+        <th>To-do list</th>
+      </tr>
+     <tbody>
+       <tr>
+         <td>Monday</td>
+         <td>Trying to find inner peace</td>
+       </tr>
+       <tr>
+         <td>Tuesday</td>
+         <td>Trying to find inner peace</td>
+       </tr>
+       <tr>
+         <td>Wednesday</td>
+         <td>Trying to find inner peace</td>
+       </tr>
+       <tr>
+         <td>Thursday</td>
+         <td>Trying to find inner peace</td>
+       </tr>
+       <tr>
+         <td>Friday</td>
+         <td>Trying to find inner peace</td>
+       </tr>
+       <tr>
+         <td>Saturday</td>
+         <td>Trying to find inner peace</td>
+       </tr>
+       </tbody>
+    <tfoot>
+       <tr>
+         <th>Sunday</th>
+         <th>Failed, another circle begins</th>
+       </tr>
+    </tfoot>
+</body>
+</html>
