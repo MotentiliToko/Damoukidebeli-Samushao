@@ -56,4 +56,5 @@
        </tr>
     </tfoot>
 </body>
+	<br><a>A little notice: If you are waiting for the motivation to get the courage in order to do something, then stop it. Motivation is a temporary thing which usually fades away from time to time and then we are facing ourselves, still on the same page and searching for comfort zone. Solution in this situation could be only one - Discipline in your mind. Discipline creates a permanent circle in a person's mind which helps us to overcome the lazyness.</a>
 </html>
